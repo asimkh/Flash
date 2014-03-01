@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<banners SPEED="5">
+
+  <!-- Educational Services -->
+  <spotlight id="5" >
+    <link>http://mcnmossdev02:9595/sites/ar/Pages/Educational-Services.aspx</link>
+    <description  x="170" y="20">
+      <![CDATA[<p><font color="#6699cc" size="25" style="font-weight:bold">الخدمات التثقيفية والتعليمية </font></p>
+<font color="#666666" size="14" style="font-weight:bold">تعتبر برامج التعليم المستمر المقدمة لموظفي مستشفى</font>
+<font color="#666666" size="14" style="font-weight:bold"> العين الأرقى من نوعها في العالم و هي من أهم المصادر</font>
+<font color="#666666" size="14" style="font-weight:bold"> التي تساعد طاقمنا الطبي في مسيرته نحو التميز...</font>
+<font color="#666666" size="14" style="font-weight:bold"></font>
+<p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">أكثر</a></font></p>]]>
+    </description>
+    <image >images/spotlight-1.jpg</image>
+  </spotlight>
+  
+    <!-- Patients & Visitors -->
+  
+  <spotlight id="4" >
+    <link>http://mcnmossdev02:9595/sites/ar/Pages/Patients-and-Visitors.aspx</link>
+    <description  x="550" y="65">
+      <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">المراجعون والزوّار</font></p>
+<font color="#666666" size="14" style="font-weight:bold">نحن في مستشفى العين نريدكم أن تشعروا بأقصى درجات </font>
+<font color="#666666" size="14" style="font-weight:bold">الراحة منذ لحظة وصولكم إلى المستشفى...</font>
+<font color="#666666" size="14" style="font-weight:bold"></font>
+ <p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">أكثر</a></font></p>]]>
+    </description>
+    <image >images/spotlight-2.jpg</image>
+  </spotlight>
+  
+    <!-- Family Medicine Centres -->
+  <spotlight id="3" >
+    <link>http://mcnmossdev02:9595/sites/ar/Pages/Family-Medicine-Centre.aspx</link>
+    <description  x="380" y="20">
+      <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">المراكز الطبية الأسرية</font></p>
+<font color="#666666" size="14" style="font-weight:bold">يتوفر لدى مستشفى العين ثلاثة مراكز لطب الأسرة في </font>
+<font color="#666666" size="14" style="font-weight:bold">كل من عود التوبه، الخبيصي والمسعودي... </font>
+<font color="#666666" size="14" style="font-weight:bold"></font>
+<p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">أكثر</a></font></p>]]>
+    </description>
+    <image >images/spotlight-3.jpg</image>
+  </spotlight>
+  
+    <!-- Our Services -->
+  <spotlight id="2" >
+    <link>http://mcnmossdev02:9595/sites/ar/Pages/Our-Services.aspx</link>
+    <description  x="500" y="20">
+      <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">كلمة المدير الطبي</font></p>
+<font color="#666666 "size="14" style="font-weight:bold">بفضل وجود أكثر من 300 طبيب موزعين على 35 اختصاصاً ، </font>
+<font color="#666666 "size="14" style="font-weight:bold">فإن مستشفى العين يُقدم مجموعة كبيرة من </font>
+<font color="#666666 "size="14" style="font-weight:bold">الخدمات الطبية... </font>
+<font color="#666666" size="14" style="font-weight:bold"></font>
+<p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">أكثر</a></font></p>]]>
+    </description>
+    <image >images/spotlight-4.jpg</image>
+  </spotlight>
+  
+  <!-- Al Ain Hospital -->
+  <spotlight id="1">
+    <link>http://mcnmossdev02:9595/sites/ar/Pages/About-Us.aspx</link>
+    <image>images/spotlight-5.jpg</image>
+    <description  x="550" y="65">
+      <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">مؤسستنا</font></p>
+<font color="#666666" size="14" style="font-weight:bold">نحن ملتزمون بتقديم أفضل رعاية صحية للمرضى وفق أعلى </font>
+<font color="#666666" size="14" style="font-weight:bold">المقاييس العالمية عبر تطورنا المستمر...</font>
+<font color="#666666" size="14" style="font-weight:bold"></font>
+	  <p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">أكثر</a></font></p>]]>
+    </description>
+  </spotlight>
+  
+
+  
+
+  
+
+  
+
+</banners>

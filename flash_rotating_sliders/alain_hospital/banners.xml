@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banners SPEED="5">
+	  <spotlight id="1">
+  	  	  <link>http://192.168.11.60:81/en/default.aspx</link>
+		  <image>images/spotlight-1.jpg</image>
+		  <description>
+		  <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">Lorem Ispum</font></p><p><font color="#666666" size="16" style="font-weight:bold"><strong>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</strong></font></p><p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">more</a></font></p>]]>
+		  </description>
+
+		  </spotlight>
+		  
+		
+		  
+	  <spotlight id="2" >
+	  <link>http://192.168.11.60:81/en/41/our-services/</link>
+		  <description>
+		 <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">Lorem Ispum</font></p><p><font color="#FFFFFF" size="16" style="font-weight:bold"><strong>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</strong></font></p><p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">more</a></font></p>]]>
+		 </description>
+	  <image >images/spotlight-2.jpg</image>
+	  </spotlight>
+      
+	  <spotlight id="3" >
+	  <link>http://192.168.11.60:81/en/42/family-medicine-centre/</link>
+	  <description>
+		  <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">Lorem Ispum</font></p><p><font color="#FFFFFF" size="16" style="font-weight:bold"><strong>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</strong></font></p><p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">more</a></font></p>]]>
+	  </description>
+	  <image >images/spotlight-3.jpg</image></spotlight>
+	  
+	  
+	  	  <spotlight id="4" >
+	  <link>http://192.168.11.60:81/en/42/family-medicine-centre/</link>
+	  <description>
+		  <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">Lorem Ispum</font></p><p><font color="#FFFFFF" size="16" style="font-weight:bold"><strong>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</strong></font></p><p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">more</a></font></p>]]>
+	  </description>
+	  <image >images/spotlight-4.jpg</image></spotlight>
+	  
+	  	  <spotlight id="5" >
+	  <link>http://192.168.11.60:81/en/42/family-medicine-centre/</link>
+	  <description>
+		  <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">Lorem Ispum</font></p><p><font color="#FFFFFF" size="16" style="font-weight:bold"><strong>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</strong></font></p><p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">more</a></font></p>]]>
+	  </description>
+	  <image >images/spotlight-5.jpg</image></spotlight>
+	  
+	  	  <spotlight id="6" >
+	  <link>http://192.168.11.60:81/en/42/family-medicine-centre/</link>
+	  <description>
+		  <![CDATA[<p><font color="#6699cc" size="25"  style="font-weight:bold">Lorem Ispum</font></p><p><font color="#FFFFFF" size="16" style="font-weight:bold"><strong>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</strong></font></p><p><font color="#6699cc" size="16" style="font-weight:bold"><a href="event:link" target="_self" style="font-weight:bold">more</a></font></p>]]>
+	  </description>
+	  <image >images/spotlight-6.jpg</image></spotlight>
+	  
+	
+</banners>
